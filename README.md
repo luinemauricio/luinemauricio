@@ -12,7 +12,7 @@ Hello Word, my name is Luine! 😃
 
 I'm a black woman, graduated in Business Administration with an emphasis on Foreign Trade and a few years of career, who fell in love with the programming area and is starting a challenging and exciting journey through the Dev world! 😎
 
-I started this journey supported by a beautiful network of women, which is {Reprograma}, and I continue my journey enjoying the processes and steps I take each day of study!❤
+I started this journey supported by a beautiful network of women, which is <a href="https://github.com/reprograma" target="_blank">{Reprograma}</a>, and I continue my journey enjoying the processes and steps I take each day of study!❤
 
 ##
 
