@@ -3,7 +3,7 @@ Hello Word, meu nome é Luine! 😃
 Sou uma mulher preta, formada em Administração com ênfase em Comércio Exterior e alguns anos de carreira, que se apaixonou pela área de programação
 e esta iniciando uma jornada desafiadora e apaixonante pelo mundo Dev! 😎
 
-Iniciei essa jornada amparada por uma rede linda de mulheres, que é a <a href="https://github.com/reprograma" target="_blank">{Reprograma}</a>;, e sigo minha viagem apreciando os processos e passos que dou a cada dia
+Iniciei essa jornada amparada por uma rede linda de mulheres, que é a <a href="https://github.com/reprograma" target="_blank">{Reprograma}</a>, e sigo minha viagem apreciando os processos e passos que dou a cada dia
 de estudo!❤
 
 
